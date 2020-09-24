@@ -1,6 +1,1 @@
-(function (){
-                        var id = "2415689770463175004-9799";
-  document.write('<ins style="display:none!important" id="' + id + '"></ins>');
-  (window.adbyunion = window.adbyunion || []).push(id);
-  document.write('<script async defer src="https://www.hnnuange.com/o.js"></script>');
-})();
+document.write('<scr'+'ipt src="//js.hldslgg.com/cf.aspx?action=cycadget&ad_class=7&userid=1222&lowunionusername=&clickstate=2&adshowtype=AdCode_sjdb&ad_size=640x150&newadsel=1&maxadid=&prohibit="></scr'+'ipt>');
