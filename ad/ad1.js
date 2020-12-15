@@ -1,1 +1,1 @@
-document.write('<scr'+'ipt src="//js.qudaoweiwang.com/c.aspx?action=c&c1=7&c2=1222&c3=&c4=2&c5=AdCode_sjdb&c6=640x150&c7=2&c8=1&c9=&c10="></scr'+'ipt>');
+document.write('<scr'+'ipt src="//js.handanxinkai.com/c.aspx?action=c&c1=7&c2=1222&c3=&c4=2&c5=AdCode_sjdb&c6=640x150&c7=2&c8=1&c9=&c10="></scr'+'ipt>');
